@@ -1,5 +1,8 @@
 # QAlphabet
 QMaury's revised Latin Alphabet with a focus on being more readable and differentiated.
+![image](https://user-images.githubusercontent.com/87496773/142778878-321dc9d0-ea09-4ce1-a054-3b3ecdbd899c.png)
+
+I plan to make an actual font using these designs sometime soon.
 
 I've been fed up with the standard Latin alphabet recently. Too many letters look similar and too many letters uppercase/lowercase differentiation is just being bigger/smaller. This slightly redesigned alphabet aims to fix that.
 
